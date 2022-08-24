@@ -2,7 +2,7 @@
 
 ## What is the single responsibility principle and how does it apply to components?
 
-### It mans that each component should be responsible for doing only one thing
+### It mans that each component should be responsible for doing only one thing?
 
 ## What does it mean to build a ‘static’ version of your application?
 
@@ -15,7 +15,7 @@
 ### What are the three questions you can ask to determine if something is state?
 
 1- What are the three questions you can ask to determine if something is state?
-2-Is it passed in from a parent via props? 
+2-Is it passed in from a parent via props
  3- Does it remain unchanged over time?
 
 ## How can you identify where state needs to live?
@@ -38,6 +38,6 @@
  ##### Map transforms the array after applying a function to the contents of the array and then return a new array with the updated values.
 
  ### Things I want to know more about
- 
+
 #### when to use higher order function
 
