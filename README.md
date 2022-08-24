@@ -8,7 +8,7 @@
 [class01 : Introduction to React and Components](/class1.md)
 
 [class04 :React And Forms](/class3.md)
-
+[class5:Thinking in React and Higher-Order Functions](/class5.md)
 
 
 4. ## Code 401 - Advanced Software Development
