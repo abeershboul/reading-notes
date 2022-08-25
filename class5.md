@@ -29,7 +29,7 @@
 
 ### What is a “higher-order function”?
 
-#### functions that can operate on other functions like taking them as arguments 
+#### functions that can operate on other functions like taking them as arguments
 
 ### Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 
@@ -37,7 +37,7 @@
 
  ### Explain how either map or reduce operates, with regards to higher-order functions
 
- ##### Map transforms the array after applying a 
+ ##### Map transforms the array after applying a
  function to the contents of the array and then return a new array with the updated values.
 
  ### Things I want to know more about
