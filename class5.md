@@ -2,7 +2,7 @@
 
 ## What is the single responsibility principle and how does it apply to components?
 
-### It mans that each component should be responsible for doing only one thing
+### It mans that each component should be responsible for doing only one thing?
 
 ## What does it mean to build a ‘static’ version of your application?
 
@@ -41,6 +41,6 @@
  function to the contents of the array and then return a new array with the updated values.
 
  ### Things I want to know more about
- 
+
 #### when to use higher order function
 
