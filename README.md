@@ -8,11 +8,14 @@
 [class01 : Introduction to React and Components](/class1.md)
 
 
+[class03 :Map function and Passing Functions as Props](/class3.md)
+
 [class04 :React And Forms](/class3.md)
 [class5:Thinking in React and Higher-Order Functions](/class5.md)
 
 
 
 [Class 02: State and Props](/class2.md)
+
 
 4. ## Code 401 - Advanced Software Development
