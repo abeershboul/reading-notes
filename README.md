@@ -12,6 +12,7 @@
 
 [class04 :React And Forms](/class3.md)
 [class5:Thinking in React and Higher-Order Functions](/class5.md)
+[class6:Node.js and Pair Programming](/class6.md)
 
 
 
