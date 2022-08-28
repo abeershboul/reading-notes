@@ -22,6 +22,8 @@
 
 [class06 : Node.js and Pair Programming](/class6.md)
 
+[class7 : REST](/class7.md)
+
 
 
 
