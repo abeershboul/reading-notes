@@ -10,7 +10,7 @@ avaScript runtime built on Chrome’s V8 JavaScript engine
 
 ## What does it mean that node is a JavaScript runtime?
 
-we can us it to execute javascript on our 
+we can us it to execute javascript on our
 computer
 
 ### What is npm?
