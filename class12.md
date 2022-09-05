@@ -11,11 +11,12 @@
 400's = Invalid requests
 
 500's = Error from the server side.
+
 ### What is a status code 202?
 
 This code tells the client that the request was valid, but its processing will finish sometime in the future.
 
-## * What is a status code 308?**
+## * What is a status code 308?
 
 This tells the client to use another URL to access the resource 
 
