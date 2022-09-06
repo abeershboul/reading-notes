@@ -32,7 +32,10 @@ As an alternative to the Authorization Code Flow, OAuth 2.0 provides the Implici
 With machine-to-machine (M2M) applications, such as CLIs, daemons, or services running on your back-end, the system authenticates and authorizes the app rather than a user. For this scenario, typical authentication schemes like username + password or social logins don't make sense. Instead, M2M apps use the Client Credentials Flow.
 ## What is Device Authorization Flow?
 With input-constrained devices that connect to the internet, rather than authenticate the user directly, the device asks the user to go to a link on their computer or smartphone and authorize the device. This avoids a poor user experience for devices that do not have an easy way to enter text. To do this, device apps use the Device Authorization Flow. For use with mobile/native applications.
+
 ## What is Resource Owner Password Flow?
+
 Though we do not recommend it, highly-trusted applications can use the Resource Owner Password Flow, which requests that users provide credentials
+
 ## Things I want to know more about
 Mongoose
