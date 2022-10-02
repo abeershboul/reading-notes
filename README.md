@@ -8,32 +8,33 @@
 
 3. ## **Code 301 - Intermediate Software Development**
 
-[class01 : Introduction to React and Components](/class1.md)
-
-[Class 02: State and Props](/class2.md)
 
 
-[class03 :Map function and Passing Functions as Props](/class3.md)
+| class number      | Link|
+| :-----------: | :----------- |
+|    class01 | [class01 : Introduction to React and Components](/class1.md)
+ |
+| Class 02      | [Class 02: State and Props](/class2.md) |
+| Class 03     | [class03 :Map function and Passing Functions as Props](/class3.md) |
+| Class 04      | [class04 :React And Forms](/class3.md) |
+| Class 05      | [class05 : Thinking in React and Higher-Order Functions](/class5.md)|
+| Class 06    | [class06 : Node.js and Pair Programming](/class6.md) |
+| Class 08   | [claas08 :API’s](./class8.md) |
+| Class 09    | [class09](./class9.md) |
+| Class 10    | [class 10](./class10.md) |
+| Class 12    | [class12](./class12.md) |
+| Class 13    | [class13](./class13.md) |
+| Class 15   | [class15](./class15.md) |
 
-[class04 :React And Forms](/class3.md)
-
-[class05 : Thinking in React and Higher-Order Functions](/class5.md)
 
 
-[class06 : Node.js and Pair Programming](/class6.md)
 
-[class7 : REST](/class7.md)
-
-[claas08 :API’s](./class8.md)
-
-[class09](./class9.md)
-[class 10](./class10.md)
-[class12](./class12.md)
-[class13](./class13.md)
-[class15](./class15.md)
 
 
 
 4. ## Code 401 - Advanced Software Development
 
-[code-401-python/class-01](./code-401-python/class1_401.md)
+| class number      | Link|
+| :-----------: | :----------- |
+| Class 01   | [class 01](./code-401-python/class1_401.md) |
+
