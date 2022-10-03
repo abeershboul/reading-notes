@@ -25,16 +25,13 @@
 | Class 12    | [class12](./class12.md) |
 | Class 13    | [class13](./class13.md) |
 | Class 15   | [class15](./class15.md) |
+<br>
 
-
-
-
-
-
-
-4. ## Code 401 - Advanced Software Development
+4. # Code 401 - Advanced Software Development
 
 | class number      | Link|
 | :-----------: | :----------- |
 | Class 01   | [class 01](./code-401-python/class1_401.md) |
+| Class 02   | [class 02](./code-401-python/class02-401.md) |
+
 
