@@ -33,5 +33,7 @@
 | :-----------: | :----------- |
 | Class 01   | [class 01](./code-401-python/class1_401.md) |
 | Class 02   | [class 02](./code-401-python/class02-401.md) |
+| Class 03   | [class 03](./code-401-python/class03-401.md) |
+
 
 
