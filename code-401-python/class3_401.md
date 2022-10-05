@@ -4,7 +4,6 @@
 
 * example:
 
-
 O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
 
 bool IsFirstElementNull(IList<String> elements)
@@ -13,8 +12,6 @@ bool IsFirstElementNull(IList<String> elements)
 
     return elements[0] == null;
 }
-
-
 
 * O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set. The example below also demonstrates how Big O favours the worst-case performance scenario; a matching string could be found during any iteration of the for loop and the function would return early, but Big O notation will always assume the upper limit where the algorithm will perform the maximum number of iterations.
 
@@ -49,7 +46,6 @@ bool ContainsDuplicates(IList<string> elements)
     }    
     return false;
 }
-
 
 * O(2^N) denotes an algorithm whose growth doubles with each addition to the input data set. 
 
