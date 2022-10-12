@@ -36,3 +36,4 @@
 | Class 03   | [class 03](./code-401-python/class3_401.md) |
 | Class 04   | [class 04](./code-401-python//class04_401.md) |
 | Class 05   | [class 05](./code-401-python/class05_401.md) |
+| Class 06   | [class 06](./code-401-python/class06_401.md) |
