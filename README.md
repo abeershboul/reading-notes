@@ -39,6 +39,7 @@
 | Class 06   | [class 06](./code-401-python/class06_401.md) |
 | Class 07   | [class 7](./code-401-python/class7_401.md) |
 | Class 08   | [class 8](./code-401-python/class08_401.md) |
-| Class 09   | [class 9](./code-401-python/class09_401.md) |
+| Class 10   | [class 10](./code-401-python/claas10_401.md) |
+
 
 
