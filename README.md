@@ -6,7 +6,9 @@
 
 2. ## Code 201 - Foundations of Software Development
 
-3. ## **Code 301 - Intermediate Software Development**
+3. ## * Code 301 - Intermediate Software Development**
+3. ## * Code 301 - Intermediate Software Development**
+
 
 
 
