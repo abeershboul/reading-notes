@@ -51,6 +51,7 @@
 | Class 17   | [class 17](./code-401-python/class17_401.md) |
 | Class 19   | [class 19](./code-401-python/class19_401.md) |
 | Class 20   | [class 20](./code-401-python/class20_401.md) |
+| Class 22   | [class 22](./code-401-python/class22_401.md) |
 
 
 
