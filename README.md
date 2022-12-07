@@ -53,6 +53,7 @@
 | Class 20   | [class 20](./code-401-python/class20_401.md) |
 | Class 22   | [class 22](./code-401-python/class22_401.md) |
 | Class 23   | [class 23](./code-401-python/class23_401.md) |
+| Class 24   | [class 24](./code-401-python/class24_401.md) |
 
 
 
