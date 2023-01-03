@@ -61,6 +61,7 @@
 | Class 29   | [class 29](./code-401-python/class29_401.md) |
 | Class 31   | [class 31](./code-401-python/class31_401.md) |
 | Class 32   | [class 32](./code-401-python/class32_401.md) |
+| Class 33   | [class 33](./code-401-python/class33_401.md) |
 
 
 
